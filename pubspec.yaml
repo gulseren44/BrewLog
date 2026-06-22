@@ -1,0 +1,50 @@
+name: brewlog
+description: "BrewLog - Kahve çekirdeklerini listeleyen mini katalog uygulaması."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+# ---------------------------------------------------------------------------
+# FLUTTER YAPILANDIRMASI
+# ---------------------------------------------------------------------------
+flutter:
+  uses-material-design: true
+
+  # ASSET TANIMLAMALARI:
+  # Flutter'da bir dosyayı (resim, json, font vb.) projeye assets olarak
+  # eklemek için, ilgili klasör/dosya yolunun burada "assets:" listesi
+  # altında EXPLICIT olarak belirtilmesi gerekir. Aksi halde
+  # rootBundle.loadString() veya Image.asset() bu dosyaları bulamaz ve
+  # "Unable to load asset" hatası fırlatır.
+  #
+  # İki farklı yöntem vardır:
+  #   1) Tek tek dosya yolu vermek:      - assets/data/coffee_data.json
+  #   2) Tüm klasörü dahil etmek:        - assets/images/
+  #      (klasör yöntemi, içine yeni dosya eklediğinizde pubspec.yaml'ı
+  #       güncellemenize gerek bırakmaz, bu yüzden resimler için tercih
+  #       edilir.)
+  assets:
+    - assets/data/coffee_data.json
+    - assets/images/
+
+  # NOT: Eğer projeye özel fontlar eklemek isterseniz, aynı mantıkla
+  # burada bir "fonts:" bloğu da tanımlanabilir, örnek:
+  #
+  # fonts:
+  #   - family: Poppins
+  #     fonts:
+  #       - asset: assets/fonts/Poppins-Regular.ttf
+  #       - asset: assets/fonts/Poppins-Bold.ttf
+  #         weight: 700

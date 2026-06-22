@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Ethiopia Yirgacheffe",
+    "origin": "Etiyopya",
+    "roastLevel": "Açık (Light)",
+    "description": "Çiçeksi ve narenciye notalarıyla bilinen Yirgacheffe, Etiyopya'nın en saygın kahve bölgelerinden birinden gelir. Hafif kavrulduğunda jasmin ve bergamot aromaları belirginleşir.",
+    "imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=600",
+    "isFavorite": false
+  },
+  {
+    "id": 2,
+    "name": "Colombia Supremo",
+    "origin": "Kolombiya",
+    "roastLevel": "Orta (Medium)",
+    "description": "Dengeli asidite ve karamel tatlılığıyla tanınan klasik bir Kolombiya kahvesi. Fındık ve çikolata notaları orta kavrumada öne çıkar.",
+    "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=600",
+    "isFavorite": false
+  },
+  {
+    "id": 3,
+    "name": "Sumatra Mandheling",
+    "origin": "Endonezya",
+    "roastLevel": "Koyu (Dark)",
+    "description": "Topraksı ve baharatlı karakteriyle bilinen Sumatra Mandheling, düşük asidite ve ağır gövdesiyle koyu kavrum severlerin favorisidir.",
+    "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=600",
+    "isFavorite": false
+  },
+  {
+    "id": 4,
+    "name": "Brazil Santos",
+    "origin": "Brezilya",
+    "roastLevel": "Orta (Medium)",
+    "description": "Yumuşak ve yuvarlak bir gövdeye sahip Brazil Santos, fındıksı ve hafif kakao tonlarıyla espresso harmanlarının temel taşlarından biridir.",
+    "imageUrl": "https://images.unsplash.com/photo-1511920170033-f8396924c348?q=80&w=600",
+    "isFavorite": false
+  },
+  {
+    "id": 5,
+    "name": "Kenya AA",
+    "origin": "Kenya",
+    "roastLevel": "Açık (Light)",
+    "description": "Parlak asiditesi ve kara üzüm, domates gibi canlı meyve notalarıyla tanınan Kenya AA, kahve severler arasında oldukça aranan bir çeşittir.",
+    "imageUrl": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?q=80&w=600",
+    "isFavorite": false
+  },
+  {
+    "id": 6,
+    "name": "Guatemala Antigua",
+    "origin": "Guatemala",
+    "roastLevel": "Orta (Medium)",
+    "description": "Volkanik topraklarda yetişen Antigua kahvesi, dumanlı ve baharatlı notalarla birlikte tatlı bir kakao arka tadı sunar.",
+    "imageUrl": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?q=80&w=600",
+    "isFavorite": false
+  },
+  {
+    "id": 7,
+    "name": "Costa Rica Tarrazú",
+    "origin": "Kosta Rika",
+    "roastLevel": "Açık-Orta",
+    "description": "Yüksek rakımda yetişen Tarrazú, parlak asidite ve narenciye kabuğu notalarıyla temiz bir fincan deneyimi sunar.",
+    "imageUrl": "https://images.unsplash.com/photo-1498804103079-a6351b050096?q=80&w=600",
+    "isFavorite": false
+  },
+  {
+    "id": 8,
+    "name": "Vietnam Robusta",
+    "origin": "Vietnam",
+    "roastLevel": "Koyu (Dark)",
+    "description": "Yüksek kafein içeriği ve sert, topraksı yapısıyla bilinen Robusta, geleneksel Vietnam kahvesi tariflerinin temelini oluşturur.",
+    "imageUrl": "https://images.unsplash.com/photo-1541167760496-1628856ab772?q=80&w=600",
+    "isFavorite": false
+  },
+  {
+    "id": 9,
+    "name": "Jamaica Blue Mountain",
+    "origin": "Jamaika",
+    "roastLevel": "Orta (Medium)",
+    "description": "Dünyanın en prestijli kahvelerinden biri olan Blue Mountain, yumuşak gövdesi ve dengeli, hafif tatlı profiliyle ünlüdür.",
+    "imageUrl": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?q=80&w=600",
+    "isFavorite": false
+  },
+  {
+    "id": 10,
+    "name": "Honduras Marcala",
+    "origin": "Honduras",
+    "roastLevel": "Orta (Medium)",
+    "description": "Karamel ve kırmızı elma notalarıyla bilinen Marcala bölgesi kahvesi, dengeli asidite ve tatlı bir bitiş sunar.",
+    "imageUrl": "https://images.unsplash.com/photo-1504753793650-d4a2b783c15e?q=80&w=600",
+    "isFavorite": false
+  },
+  {
+    "id": 11,
+    "name": "Yemen Mocha",
+    "origin": "Yemen",
+    "roastLevel": "Koyu (Dark)",
+    "description": "Asırlık geleneksel yöntemlerle işlenen Yemen Mocha, şarapsı ve baharatlı kompleks bir aroma profiline sahiptir.",
+    "imageUrl": "https://images.unsplash.com/photo-1606791405792-1004f1718d4c?q=80&w=600",
+    "isFavorite": false
+  },
+  {
+    "id": 12,
+    "name": "Panama Geisha",
+    "origin": "Panama",
+    "roastLevel": "Açık (Light)",
+    "description": "Dünyanın en özel ve pahalı kahve çeşitlerinden biri olan Geisha, yoğun çiçeksi aroma ve şeftali notalarıyla ödüllü bir profil sunar.",
+    "imageUrl": "https://images.unsplash.com/photo-1461023058043-033481440af1?q=80&w=600",
+    "isFavorite": false
+  }
+]
