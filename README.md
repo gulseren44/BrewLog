@@ -15,7 +15,7 @@ BrewLog, Flutter ve Dart kullanılarak geliştirilmiş, minimalist tasarıma sah
 | <img src="screenshots/home_screen.png" width="220"> | <img src="screenshots/detail_screen.png" width="220"> | <img src="screenshots/favorites_screen.png" width="220"> |
 
 ## 🛠️ Kullanılan Teknolojiler ve Sürüm Bilgisi
-- **Framework:** Flutter (Sürüm: `3.22.x` veya bilgisayarınızdaki mevcut sürüm)
+- **Framework:** Flutter (Sürüm: 3.44.2)
 - **Dil:** Dart
 - **Veri Formatı:** JSON (Asynchronous Asset Parsing)
 
