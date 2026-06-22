@@ -21,8 +21,9 @@ BrewLog, Flutter ve Dart kullanılarak geliştirilmiş, minimalist tasarıma sah
 
 ## 🏃‍♂️ Çalıştırma Adımları
 
-Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+Bu projeyi yerel bilgisayarınızda sorunsuz bir şekilde ayağa kaldırmak ve çalıştırmak için aşağıdaki adımları sırasıyla takip edebilirsiniz:
 
-1. **Depoyu Klonlayın:**
-   ```bash
-   git clone [https://github.com/gulseren44/BrewLog](https://github.com/gulseren44/BrewLog.git)
+### 1. Projeyi Klonlayın
+Öncelikle GitHub üzerindeki kaynak kodları yerel makinenize indirmek için terminalinizi açın ve aşağıdaki komutu çalıştırın:
+```bash
+git clone [https://github.com/gulseren44/BrewLog.git](https://github.com/gulseren44/BrewLog.git)
